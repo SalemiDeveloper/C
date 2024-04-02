@@ -6,6 +6,7 @@ matriz.
 Consequentemente, as colunas C+1 à última
 deverão serão deslocadas uma posição para a
 esquerda.
+nota = 10/10
 
 #include <stdio.h>
 #define LINHA 5
